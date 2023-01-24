@@ -6,3 +6,5 @@ conflicting change
 small conflict
 
 something
+
+one more
