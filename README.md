@@ -3,6 +3,6 @@ git commands playground
 
 conflicting change
 
-another conflict
+small conflict
 
 something
